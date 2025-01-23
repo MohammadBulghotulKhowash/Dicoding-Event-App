@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DicodingEventApp</string>
+    <string name="title">Judul</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_appbar_upcoming">Event Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_appbar_finished">Event Finished</string>
+    <string name="no_event_now">Event tidak tersedia saat ini</string>
+    <string name="event_summary">Ringkasan</string>
+    <string name="event_description">Contrary to popular belief, Lorem Ipsum is not simply random text.
+        It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+        Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,
+        looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage,
+        and going through the cites of the word in classical literature, discovered the undoubtable source.
+        Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum"
+        (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics,
+        very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..",
+        comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.
+        Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form,
+        accompanied by English versions from the 1914 translation by H. Rackham.</string>
+    <string name="event_quota">Quota peserta</string>
+    <string name="event_quota_nominal">1000</string>
+    <string name="event_registrants">Peserta terdaftar</string>
+    <string name="event_registrants_nominal">1000</string>
+    <string name="event_owner">Owner</string>
+    <string name="event_begin_time">10 Jan 2025</string>
+    <string name="btn_register">Register Now</string>
+    <string name="title_heading_upcoming">Event Upcoming</string>
+    <string name="title_heading_finished">Event Finished</string>
+    <string name="hint_search">Cari event…</string>
+    <string name="title_no_result">Event tidak ditemukan</string>
+</resources>
