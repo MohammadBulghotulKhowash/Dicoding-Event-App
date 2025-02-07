@@ -30,4 +30,6 @@
     <string name="title_heading_finished">Event Finished</string>
     <string name="hint_search">Cari event…</string>
     <string name="title_no_result">Event tidak ditemukan</string>
+    <string name="theme_switch">Light/Dark</string>
+    <string name="title_appbar_setting">Setting</string>
 </resources>

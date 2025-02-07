@@ -22,4 +22,10 @@
         android:name="com.dicoding.latihan.dicodingeventapp.ui.finished.FinishedFragment"
         android:label="@string/title_appbar_finished"
         tools:layout="@layout/fragment_finished" />
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.dicoding.latihan.dicodingeventapp.ui.setting.SettingFragment"
+        android:label="@string/title_appbar_setting"
+        tools:layout="@layout/fragment_setting" />
 </navigation>
